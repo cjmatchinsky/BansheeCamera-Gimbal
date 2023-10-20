@@ -1,2 +1,2 @@
 # BansheeCamera-Gimbal
-This is code for ardiuno Pro-micros for a two asix control gimbal of two sg90 servos. 
+This is code for Ardiuno Pro-micros for a two axis control gimbal of two sg90 servos. 
